@@ -1,19 +1,21 @@
-##Nr of Records
+# Outbound Compaign Documentation
 
-##Delivered to Agent
+## Nr of Records
 
-##Count call ID.
+## Delivered to Agent
 
-##Reached Customer but Not Available Agent.
+## Count call ID.
 
-##%Dialed.
+## Reached Customer but Not Available Agent.
 
-##%Delivered agent.
+## %Dialed.
 
-##% Customer not Reached.
+## %Delivered agent.
 
-##Count customer и count calls 
+## % Customer not Reached.
 
-##% Dailed three atempt и % Dailed three +atempt 
+## Count customer и count calls 
 
-##% Dialed New 
+## % Dailed three atempt и % Dailed three +atempt 
+
+## % Dialed New 
